@@ -3,3 +3,7 @@ Here's a simple Python program to test your mouse scroll wheel. The line will sh
 
 
 There is also an option to test your other mouse clicks for any double clicks or activation issues.
+
+
+# Requirements
+`pip install pygame`
